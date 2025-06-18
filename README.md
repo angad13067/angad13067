@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Angad Singh! 
+I'm an aspiring Computer Engineer based in Montreal.
 
 <!--
 **angad13067/angad13067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-## Hi, I'm Angad Singh! 
+## Hi, I'm Angad Singh! 👋
 I'm an aspiring Computer Engineer based in Montreal.
 
 <!--
